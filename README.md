@@ -1,4 +1,4 @@
-
+#Add Your .env file into the code, use this code:
 ```
 DATABASE_URL=
 
